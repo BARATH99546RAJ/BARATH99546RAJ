@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Barath 👋
 
-<!--
-**BARATH99546RAJ/BARATH99546RAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst with a background in BPS
+📊 Skilled in Excel, SQL, and Power BI
+📈 Passionate about turning data into business insights
 
-Here are some ideas to get you started:
+🛠 Skills
+Excel (Advanced)
+SQL
+Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Projects
+Sales Analysis Dashboard (Power BI)
+
+📫 Connect with me
+Email: raj99546barath@gmail.com
+
+⚡ Fun Fact
+I enjoy uncovering the "why" behind the numbers
