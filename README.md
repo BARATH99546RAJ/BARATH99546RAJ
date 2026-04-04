@@ -14,6 +14,7 @@ Sales Analysis Dashboard (Power BI)
 
 📫 Connect with me
 Email: raj99546barath@gmail.com
+LinkedIn: https://www.linkedin.com/in/barathraj-babu-b34984228/
 
 ⚡ Fun Fact
 I enjoy uncovering the "why" behind the numbers
